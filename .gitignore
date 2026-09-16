@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Composer
+vendor/
+composer.lock
+
+# Testing
+phpunit.xml
+.phpunit.result.cache
+coverage/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
